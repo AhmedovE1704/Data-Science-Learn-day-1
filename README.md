@@ -9,10 +9,15 @@ Today I studied data science day 1. The data was about the Titanic
 - Model accuracy: 71%
 - Learned to split data into train/test
 - Understand the problem of class imbalance
-![alt text](https://i.ibb.co/BKrC8wzC/image.png)
 ## Technologies
 - Python
 - Pandas
 - Scikit-learn
 - Matplotlib/Seaborn
+
+
+
+
+## Logs
+![alt text](https://i.ibb.co/BKrC8wzC/image.png)
 
