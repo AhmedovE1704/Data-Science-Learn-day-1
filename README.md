@@ -15,4 +15,4 @@ Today I studied data science day 1. The data was about the Titanic
 - Scikit-learn
 - Matplotlib/Seaborn
 
-![alt text]([http://url/to/img.png](https://i.ibb.co/BKrC8wzC/image.png))
+![alt text](https://i.ibb.co/BKrC8wzC/image.png)
