@@ -14,10 +14,5 @@ Today I studied data science day 1. The data was about the Titanic
 - Pandas
 - Scikit-learn
 - Matplotlib/Seaborn
-
-
-
-
 ## Logs
 ![alt text](https://i.ibb.co/BKrC8wzC/image.png)
-
